@@ -11,11 +11,11 @@ permalink: /
  <!---<p align="center">
   <img src="/assets/images/Mathdigilab-logo.svg" alt="Mathdigilab"  width="max-width" />
  </p>--->
-<h1 align="center"><strong> Mathdigilab </strong></h1>
+<h1 align="center"><strong> Digipage </strong></h1>
 {: .fw-700, .fs-10}
 
-<h4 align="center">Explore & Learn Math</h4>
-<p align="center">One-stop place for math enthusiasts.</p>
+<h4 align="center">Explore & Learn Computer Science</h4>
+<p align="center">One-stop place for coding enthusiasts.</p>
 
 ---
 
